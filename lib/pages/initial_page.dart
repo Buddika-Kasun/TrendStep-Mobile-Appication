@@ -1,5 +1,5 @@
-import 'package:firebaseflutter/components/my_button.dart';
-import 'package:firebaseflutter/pages/signup_page.dart';
+import 'package:trendstep_mobile_appication/components/my_button.dart';
+import 'package:trendstep_mobile_appication/pages/signup_page.dart';
 import 'package:flutter/material.dart';
 
 class InitialPage extends StatelessWidget {
